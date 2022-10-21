@@ -13,7 +13,7 @@ Data Preprocessing was done by visualizations, cleaning, imputting missing value
 
 Categorical encoding of type Onehot and Ordinal was also used.
 
-Techniques applied for feature selection and dimensionality reduction across the regressors include:
+Techniques applied for feature selection and dimensionality reduction on some of the regressors include:
 
 1. SelectKBest.
 2. Principal Component Analysis (PCA).
