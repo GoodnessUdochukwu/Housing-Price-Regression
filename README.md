@@ -15,11 +15,11 @@ Categorical encoding of type Onehot and Ordinal was also used.
 
 Techniques applied for feature selection and dimensionality reduction on some of the regressors include:
 
-1. SelectKBest.
+1. Function Transformer.
 2. Principal Component Analysis (PCA).
 3. Recursive Feature Elimination with Cross-Validation.
-4. SelectFromModel.
-5. Truncated Single Value Decomposition (TruncatedSVD).
+4. Feature Engineering.
+5. Feature Selection.
 6. VarianceThreshold.
 
 Different pipelines were created to handle categorical and numerical features, and finally, the grid search cross validation iterator was used to ensure our model predicts without overfitting.
