@@ -26,4 +26,4 @@ Different pipelines were created to handle categorical and numerical features, a
 
 The results on accuracy based on the R-square score is as presented in the table below:
 
-![image](https://user-images.githubusercontent.com/103940202/197244665-bbe4e225-db7d-4636-aecf-c68a6cf3ecc7.png)
+![image](https://user-images.githubusercontent.com/103940202/200791476-202b120f-4bef-443a-9f2b-4742b2b4505e.png)
